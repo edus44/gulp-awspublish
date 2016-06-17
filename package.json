@@ -1,5 +1,5 @@
 {
-  "name": "gulp-awspublish",
+  "name": "gulp-awspublish-regex-headers",
   "version": "3.2.0",
   "description": "gulp plugin to publish files to amazon s3",
   "keywords": [
@@ -8,17 +8,17 @@
     "s3",
     "publish"
   ],
-  "homepage": "https://github.com/pgherveou/gulp-awspublish",
-  "bugs": "https://github.com/pgherveou/gulp-awspublish/issues",
+  "homepage": "https://github.com/edus44/gulp-awspublish-regex-headers",
+  "bugs": "https://github.com/edus44/gulp-awspublish-regex-headers/issues",
   "author": {
     "name": "PG Herveou",
     "email": "pg@jogabo.com",
-    "url": "https://github.com/pgherveou"
+    "url": "https://github.com/edus44"
   },
   "main": "./lib/index.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/pgherveou/gulp-awspublish.git"
+    "url": "git://github.com/edus44/gulp-awspublish-regex-headers.git"
   },
   "scripts": {
     "test": "istanbul test _mocha --report html -- test/*.js --reporter spec",
